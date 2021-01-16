@@ -29,6 +29,6 @@
 ## Reference
 
 ## Links
-- www.pickitup.shop
+- pickitup.shop
 
 ## License
