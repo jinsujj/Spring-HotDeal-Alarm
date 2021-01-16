@@ -5,7 +5,7 @@
 > 프로젝트 간략 소개 한 문장 
 - http://pickitup.shop
 - Spring Framework 로 만든 최저가 알리미.
-- Java, JS, AWS(MySQL-RDS, Linux)
+- Java, JS, Spring, AWS(MySQL-RDS, Linux)
 
 ## 핵심 기능  Key Feature
 - 모아보기, 탐색하기 탭으로 구성 
