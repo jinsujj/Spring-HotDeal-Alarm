@@ -3,7 +3,7 @@
 
 
 > 프로젝트 간략 소개 한 문장 
-- www.pickitup.shop
+- http://pickitup.shop
 - Spring Framework 로 만든 최저가 알리미.
 - Java, JS, AWS(MySQL-RDS, Linux)
 
