@@ -20,7 +20,7 @@ public class Scheduler {
     private final NaverShopSearch naverShopSearch;
 
     // 초, 분, 시, 일, 월, 주 순서
-    @Scheduled(cron = "* /10 * * * *")
+    @Scheduled(cron = "* /30 * * * *")
     public void updatePrice() throws InterruptedException {
         System.out.println("가격 업데이트 실행");
         // 저장된 모든 관심상품을 조회합니다.
