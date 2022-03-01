@@ -36,7 +36,8 @@
 ## License
 
 
-
+### Setting
+```
 #### 실행
 nohup java -jar JAR_name.jar & 
 
@@ -45,3 +46,5 @@ ps -ef | grep java
 
 #### ps (pid) 삭제
 kill -9 [pid]
+```
+
