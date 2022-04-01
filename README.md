@@ -3,7 +3,7 @@
 
 
 > 프로젝트 간략 소개 한 문장 
-- http://pickitup.shop
+- http://jinsu-seoul.iptime.org/
 - Spring boot Framework 로 만든 최저가 알리미.
 - Java, JS, Spring, AWS(MySQL-RDS, Linux)
 
