@@ -4,7 +4,7 @@ Spring boot를 공부하기 위해 만든 최저가 알리미 사이트입니다
 
 
 > 프로젝트 간략 소개 한 문장 
-- http://jinsu-seoul.iptime.org/
+- http://pickitup.owl-dev.me:82
 - Spring boot Framework 로 만든 최저가 알리미.
 - Java, JS, Spring, AWS(MySQL-RDS, Linux)
 
